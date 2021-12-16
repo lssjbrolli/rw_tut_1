@@ -16,10 +16,12 @@
     "@chakra-ui/react": "^1.7.3",
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
+    "@redwoodjs/auth": "0.40.0",
     "@redwoodjs/forms": "0.40.0",
     "@redwoodjs/router": "0.40.0",
     "@redwoodjs/web": "0.40.0",
     "framer-motion": "^5.5.3",
+    "netlify-identity-widget": "^1.9.2",
     "prop-types": "15.7.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
